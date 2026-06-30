@@ -4,4 +4,4 @@ Ein in Python entwickeltes Schachprogramm mit GUI und KI-basierter Zugauswahl du
 
 ## Download
 
-Bitte die neuste Version aus dem [Releases](https://github.com/MadMax2007hn/ESA/releases) tab beziehen.
+Bitte die neuste Version aus dem [Releases](https://github.com/MadMax2007hn/Chess_AI/releases) tab beziehen.
